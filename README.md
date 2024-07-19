@@ -1,12 +1,28 @@
-# SalesDashboard using Power BI
+# Sales Dashboard using Power BI
 
-## Tools
-Power BI
+## Project Overview:
+This project involves the creation of an interactive sales dashboard for a company using Power BI. The primary objective is to visualize key sales metrics and provide actionable insights to support data-driven decision-making.
 
-PowerPoint
+## Technologies Used:
 
+Data Visualization Tool: Power BI
+
+Data Source: Company sales data (CSV/Excel/Database)
 
 ![Screenshot 2024-07-19 122522](https://github.com/user-attachments/assets/472b49db-e0bf-451e-a0a8-8e29b8cc5981)
+
+## Objectives:
+
+-Visualize sales data to identify trends and patterns.
+
+-Monitor sales performance and key metrics.
+
+-Segment customers and analyze their behavior.
+
+-Evaluate product performance and inventory levels.
+
+-Provide interactive visualizations for better understanding and analysis.
+
 
 ## Conclusion of Power BI Sales Dashboard Project
 Conclusion for the year 2019:
