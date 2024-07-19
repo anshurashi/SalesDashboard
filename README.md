@@ -1,7 +1,7 @@
-# SalesDashboard using PowerBI
+# SalesDashboard using Power BI
 
 ## Tools
-PowerBI
+Power BI
 
 PowerPoint
 
