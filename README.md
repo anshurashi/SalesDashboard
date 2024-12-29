@@ -9,7 +9,9 @@ Data Visualization Tool: Power BI
 
 Data Source: Company sales data (CSV/Excel/Database)
 
-![Screenshot 2024-07-19 122522](https://github.com/user-attachments/assets/472b49db-e0bf-451e-a0a8-8e29b8cc5981)
+![dashboard](https://github.com/user-attachments/assets/7189ea1d-0a4d-41af-a1a7-880a536d6a40)
+
+
 
 ## Objectives:
 
